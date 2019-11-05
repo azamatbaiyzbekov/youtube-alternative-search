@@ -1,5 +1,19 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Youtube Alternative Search
+
+MVP single page app lets you search for youtube videos by connecting to external Youtube API.
+
+## Technologies Used 
+- React
+- Youtube API
+- Bootstrap
+- Materialize Design
+
+## Screenshots
+
+<img width="1165" alt="Screen Shot 2019-11-04 at 9 08 18 PM" src="https://user-images.githubusercontent.com/50389914/68180111-4d878a00-ff47-11e9-89a4-47958e9666f9.png">
+
 ## Available Scripts
 
 In the project directory, you can run:
