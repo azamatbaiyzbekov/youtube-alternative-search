@@ -15,7 +15,7 @@ https://glacial-journey-10506.herokuapp.com/
 
 ## Screenshots
 
-<img width="1165" alt="Screen Shot 2019-11-04 at 9 08 18 PM" src="https://user-images.githubusercontent.com/50389914/68180111-4d878a00-ff47-11e9-89a4-47958e9666f9.png">
+<img width="1165" alt="Screen Shot 2019-11-11 at 10 15 36 PM" src="https://user-images.githubusercontent.com/50389914/68646737-dca91a80-04d0-11ea-8a8b-d245fca7a661.png">
 
 ## Available Scripts
 
